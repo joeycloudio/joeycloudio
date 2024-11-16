@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning all things AWS cloud.
 - 🌱 I’m currently learning ... any and all skills to become a cloud engineer.
 - 💞️ I’m looking to collaborate on beginner level projects.
-- 📫 How to reach me ... joeyacostax@gmail.com
+- 📫 How to reach me ... joeyacostax@gmail.com & www.linkedin.com/in/joeyacosta
 - 😄 Pronouns: ... he
 - ⚡ Fun fact: ...
 
