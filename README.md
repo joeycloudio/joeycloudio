@@ -4,8 +4,7 @@
 -  **Passionate about** designing secure, scalable, and automated AWS solutions.  
 -  **Hands-on experience with** Infrastructure as Code (**CloudFormation, Terraform**), CI/CD pipelines (**CodePipeline, CodeBuild, CodeDeploy**), and cloud security best practices.  
 -  **Projects include** AWS security monitoring, automated deployments, IAM access controls, and troubleshooting cloud environments.  
-
-📂 **NextWork Portfolio:** [NextWork Portfolio](https://learn.nextwork.org/portfolio)  
+ 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/joeyacosta) | joeyacostax@gmail.com  
 
 ⚡ **Fun fact:** Sharks can live for **five centuries** – so if you think you've had a long week, just remember, sharks have been around for hundreds of years, still managing to avoid extinction.  
