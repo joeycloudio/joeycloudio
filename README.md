@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Joey!  
-🚀 **Cloud Engineer | AWS Certified (SAA, CCP) | DevOps & Automation**  
+🚀 **Cloud Engineer | AWS Certified (SAA, CCP) | Terraform Certified | DevOps & Automation**  
 
 -  **Passionate about** designing secure, scalable, and automated AWS solutions.  
 -  **Hands-on experience with** Infrastructure as Code (**CloudFormation, Terraform**), CI/CD pipelines (**CodePipeline, CodeBuild, CodeDeploy**), and cloud security best practices.  
